@@ -1,4 +1,5 @@
 --!strict
+--!native
 
 export type Vector = {
 	__index: Vector,
